@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img alt="nazih boudaakkar logo" src="./images/logo.svg" style="max-width:8rem"/>
+<img alt="nazih boudaakkar logo" src="./images/logo.svg" style="width:6rem"/>
 
 <h1 align="center"> Nazih Boudaakkar </h1>
 <h3 align="center"> Full Stack Engineer </h3>
@@ -25,11 +25,13 @@ Here are some ideas to get you started:
 
 </div>
 
-Hi, my name is Nazih commonly refered to as ```Spounka```, I'm a full stack engineer that demystifies problems with crystal clear solutions.
+Hi, my name is Nazih commonly refered to as ```Spounka```, I'm a full stack engineer that demystifies problems with
+crystal clear solutions.
 
 I'm Specialized in backend and solving challenging problems
 
 ## Programming stacks
+
 <div align="left">
 
 <img style="margin:0 4px" align="center" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -43,7 +45,6 @@ I'm Specialized in backend and solving challenging problems
 
 </div>
 
-
 ## 📊 Stats
 
 <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=spounka&show_icons=true&theme=transparent&&border_color=ffffff" />
@@ -51,11 +52,15 @@ I'm Specialized in backend and solving challenging problems
 
 <details>
 	<summary>👨‍💻 Nazih's Coding journey</summary>
-	
-I have started programming at the age of 14, making random scripts in Windows batch files, afterwards I found `GameMaker` which helped me shape my desire into becoming a game developer
 
-A year later I found myself downloading the UnityEngine and trying it out for the first time because GameMaker was not cut for making 3D that well.
+I have started programming at the age of 14, making random scripts in Windows batch files, afterwards I
+found `GameMaker` which helped me shape my desire into becoming a game developer
 
-Having made countless prototypes I then jumped on to using pure C++ and OpenGL, sometimes using graphic libraries like [SFML](https://www.sfml-dev.org/) and [Raylib](https://www.raylib.com/)
+A year later I found myself downloading the UnityEngine and trying it out for the first time because GameMaker was not
+cut for making 3D that well.
 
-Having acquired the most of that experience and shaped my brain to think and solve problems I shifted my attention to web development, where I'm willing to use my found skills in solving real world issues adding my own touch to it
+Having made countless prototypes I then jumped on to using pure C++ and OpenGL, sometimes using graphic libraries
+like [SFML](https://www.sfml-dev.org/) and [Raylib](https://www.raylib.com/)
+
+Having acquired the most of that experience and shaped my brain to think and solve problems I shifted my attention to
+web development, where I'm willing to use my found skills in solving real world issues adding my own touch to it
