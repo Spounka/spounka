@@ -41,6 +41,8 @@ I'm Specialized in backend and solving challenging problems
 <img style="margin:0 4px" align="center" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img style="margin:0 4px" align="center" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 
+#
+
 <img style="width:100%; margin: 1rem 0;padding-left:0.2rem; padding-right:0.2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spounka&card_width=467&theme=transparent&langs_count=8&layout=compact&hide=ShaderLab,HLSL,ASP,TeX&hide_progress=true" />
 
 </div>
