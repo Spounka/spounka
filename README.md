@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![committers.top badge](https://user-badge.committers.top/algeria/spounka.svg)](https://user-badge.committers.top/algeria/spounka)
+[![committers.top badge](https://user-badge.committers.top/algeria/Spounka.svg)](https://user-badge.committers.top/algeria/Spounka)
 
 <div align="center">
 
