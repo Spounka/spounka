@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![committers.top badge](https://user-badge.committers.top/algeria/spounka.svg)](https://user-badge.committers.top/algeria/spounka)
+
 <div align="center">
 
 <img alt="nazih boudaakkar logo" src="./images/logo.svg" style="width:6rem"/>
